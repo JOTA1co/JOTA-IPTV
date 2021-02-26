@@ -1,0 +1,7 @@
+#EXTINFM3U
+
+#EXTINF:-1 tvg-logo="https://www.tvcanaleshd.com/wp-content/uploads/2018/06/canal-caracol-tv.jpg",Caracol HD
+https://tna5.bozztv.com/rth56ujt7j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvcanaleshd.com/wp-content/uploads/2018/04/miloo.png",RCN HD
+https://tna5.bozztv.com/f54eyh56hd/index.m3u8
